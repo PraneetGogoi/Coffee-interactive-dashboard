@@ -113,7 +113,3 @@ Contributions are welcome\! Please feel free to submit a Pull Request.
 ### Author
 
 **Praneet Gogoi** *Aspiring AI Engineer | Technical Content Creator*
-
------
-
-**Would you like me to add a specific section for the RFM (Recency, Frequency, Monetary) analysis or the seasonal forecasting logic from your notebook?**
